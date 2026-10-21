@@ -1,0 +1,3 @@
+# Pygame-AI-Minigames
+
+Скоро...
